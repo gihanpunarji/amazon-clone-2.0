@@ -1,0 +1,16 @@
+.main-section-banner {
+    background-image: url("https://i.ibb.co/JnmTD12/banner.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.main-section-catagory {
+    display: flex;
+    flex-wrap: wrap;
+}
